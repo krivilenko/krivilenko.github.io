@@ -54,4 +54,10 @@ E-mail: [krivilenko_t@ukr.net](mailto:krivilenko_t@ukr.net)
 
 Хобі: науковий пошук, читання, малювання аквареллю, рукоділля.
 
-[Моя наукова праця](https://krivilenko.github.io/my_masters_paper)
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
