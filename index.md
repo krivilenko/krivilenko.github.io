@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Krivilenko CV
 
-You can use the [editor on GitHub](https://github.com/krivilenko/krivilenko.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Крівіленко Тетяна Анатоліївна
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Молодший лікар ветеринарної медицини
 
-### Markdown
+Студентка 1 курсу ОКР «Магістр»факультету ветеринарної медицин  Національного університету біоресурсів і природокористування України.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Тел.: [(+380) 67 457 03 64](tel:+380674570364)
 
-```markdown
-Syntax highlighted code block
+E-mail: [krivilenko_t@ukr.net](mailto:krivilenko_t@ukr.net)
 
-# Header 1
-## Header 2
-### Header 3
+Адреса: 04208 м. Київ, пр.-т Правди, 80-В кв. 151
 
-- Bulleted
-- List
+Дата народження: 29.05.1981.
 
-1. Numbered
-2. List
+Освіта:
+ - 1998 — Національний аграрний університет
+ - 2017 — студентка 1 курсу ОКР «Магістр» факультету ветеринарної медицини Національного університету біоресурсів і природокористування України 
 
-**Bold** and _Italic_ and `Code` text
+Професійний досвід:
+- 2016 по теперішній час – декретна відпустка
+- 2012 – 2016 – старший адміністратор мережі клінік VIVA (підрозділ Виноградарь). Основні професійні обов’язки:
+    • управління лікарями;
+    • вирішення конфліктних випадків;
+    • заключення договорів на постачання лікарських засобів та устаткування.
+- 2003 – 2012 – Голова департаменту освітлення «Архітектурного Бюро» м. Таллін. Основні професійні обов’язки:
+    • управління проектами освітлення в будівництві;
+    • вирішення конфліктних випадків;
+    • заключення договорів на постачання світлотехнічного обладнання;
+    • проектування, комплектування та тестування світлотехнічного обладнання;
+    • організація проведення тренінгів.
 
-[Link](url) and ![Image](src)
-```
+Додаткові відомості:
+    • 2003 – сертифікат семінару «Хвороби коней» - Ліверпульської вищої школи ветеринарної медицини;
+    • 2004 - сертифікат семінару «Ортопедичні хвороби коней» - Ліверпульської вищої школи ветеринарної медицини;
+    • 2005 - сертифікат семінару «Хірургія коней» - Ліверпульської вищої школи ветеринарної медицини;
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Персональні якості: цілеспрямованість, стресостійкість,рішучість, готовність навчатися новому.
 
-### Jekyll Themes
+Володіння мовами: українська, російська, англійська, естонська зі словарем.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/krivilenko/krivilenko.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Хобі: науковий пошук, читання, малювання аквареллю, рукоділля.
