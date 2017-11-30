@@ -1,5 +1,8 @@
+---
+layout: default
+---
+
 # Крівіленко Тетяна Анатоліївна
-![useful image]({{ site.url }}/assets/krivilenko.jpg)
 
 Молодший лікар ветеринарної медицини
 
