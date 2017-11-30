@@ -53,3 +53,5 @@ E-mail: [krivilenko_t@ukr.net](mailto:krivilenko_t@ukr.net)
 Володіння мовами: українська, російська, англійська, естонська зі словарем.
 
 Хобі: науковий пошук, читання, малювання аквареллю, рукоділля.
+
+[Моя наукова праця](https://krivilenko.github.io/my_masters_paper)
